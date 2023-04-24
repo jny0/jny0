@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jyp1102)](https://solved.ac/profile/jyp1102)
 
-![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=Hypersand&layout=compact&theme=merko)
+![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=jny0&layout=compact&theme=merko)
 
 <!--
 **jny0/jny0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
