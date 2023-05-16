@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jyp1102)](https://solved.ac/profile/jyp1102)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyp1102)](https://solved.ac/profile/jyp1102)
 
 ![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=jny0&layout=compact&theme=light)
 
